@@ -1,7 +1,6 @@
 ## 💬 Chat, UI & Utility Mods
 
-### HyCommands
-https://www.curseforge.com/hytale/mods/hycommands
+### [HyCommands](https://www.curseforge.com/hytale/mods/hycommands)
 <details>
 <summary>Expand</summary>
 
@@ -29,8 +28,7 @@ HyCommands is a powerful **server utility mod** that adds a suite of essential c
 
 ---
 
-### HyMarkers
-https://www.curseforge.com/hytale/mods/hymarkers
+### [HyMarkers](https://www.curseforge.com/hytale/mods/hymarkers)
 <details>
 <summary>Expand</summary>
 
@@ -54,8 +52,7 @@ Place the `.jar` into your server’s `mods/` folder and restart.
 
 ---
 
-### Better Modlist
-https://www.curseforge.com/hytale/mods/better-modlist
+### [Better Modlist](https://www.curseforge.com/hytale/mods/better-modlist)
 <details>
 <summary>Expand</summary>
 
@@ -73,8 +70,7 @@ Automatically enhances your mod list UI; no commands needed.
 
 ---
 
-### WerChat
-https://www.curseforge.com/hytale/mods/werchat
+### [WerChat](https://www.curseforge.com/hytale/mods/werchat)
 <details>
 <summary>Expand</summary>
 
@@ -91,8 +87,7 @@ Typically enhances chat display; config & commands vary by version.
 
 ---
 
-### Where This At
-https://www.curseforge.com/hytale/mods/where-this-at
+### [Where This At](https://www.curseforge.com/hytale/mods/where-this-at)
 <details>
 <summary>Expand</summary>
 
@@ -113,8 +108,7 @@ In-game UI/search command to locate items.
 
 ## 🛠️ Gameplay & Systems
 
-### Gone Fishing
-https://www.curseforge.com/hytale/mods/gone-fishing
+### [Gone Fishing](https://www.curseforge.com/hytale/mods/gone-fishing)
 <details>
 <summary>Expand</summary>
 
@@ -134,8 +128,7 @@ Adds a full fishing mechanic to Hytale. Players can craft fishing rods, cast int
 
 ---
 
-### Mob Capture
-https://www.curseforge.com/hytale/mods/mob-capture
+### [Mob Capture](https://www.curseforge.com/hytale/mods/mob-capture)
 <details>
 <summary>Expand</summary>
 
@@ -156,27 +149,7 @@ Adds a system for **capturing mobs** with special cages and nets. Allows transpo
 
 ---
 
-### Animal Spawning Overhaul
-https://www.curseforge.com/hytale/mods/animal-spawning-overhaul
-<details>
-<summary>Expand</summary>
-
-**Description:**  
-Overhauls the spawning system for animals in Hytale, creating more **realistic ecosystems**. Adjusts spawn rates, group sizes, and biome-specific animal behaviors. ([curseforge.com](https://www.curseforge.com/hytale/mods/animal-spawning-overhaul))
-
-**Usage / How to Use In‑Game:**  
-- No direct commands; effects are automatic in the world.  
-- Biomes will now have more varied and realistic animal populations.  
-
-**Screenshots / Images:**  
-![Animal Spawning Overhaul](https://media.curseforge.com/avatars/XXXXX/large.png)
-
-</details>
-
----
-
-### Ore Crusher
-https://www.curseforge.com/hytale/mods/ore-crusher
+### [Ore Crusher](https://www.curseforge.com/hytale/mods/ore-crusher)
 <details>
 <summary>Expand</summary>
 
@@ -195,8 +168,7 @@ Introduces machines that **process ores into refined materials**, saving players
 
 ---
 
-### The Pickaxes Place Torches
-https://www.curseforge.com/hytale/mods/the-pickaxes-place-torches
+### [The Pickaxes Place Torches](https://www.curseforge.com/hytale/mods/the-pickaxes-place-torches)
 <details>
 <summary>Expand</summary>
 
@@ -214,8 +186,7 @@ Adds a feature where **pickaxes automatically place torches** when mining in dar
 
 ---
 
-### YUNG’s HyDungeons
-https://www.curseforge.com/hytale/mods/yungs-hydungeons
+### [YUNG’s HyDungeons](https://www.curseforge.com/hytale/mods/yungs-hydungeons)
 <details>
 <summary>Expand</summary>
 
@@ -239,8 +210,7 @@ Adds **custom dungeons and loot systems**. Players can explore new structures, f
 
 ## 🌎 World & Mobs
 
-### Not Enough Rats
-https://www.curseforge.com/hytale/mods/notenoughrats
+### [Not Enough Rats](https://www.curseforge.com/hytale/mods/notenoughrats)
 <details>
 <summary>Expand</summary>
 
@@ -259,8 +229,25 @@ Not Enough Rats adds **rat mobs** to the game, increasing small animal diversity
 
 ---
 
-### Aure’s Livestock
-https://www.curseforge.com/hytale/mods/aures-livestock
+### [Animal Spawning Overhaul](https://www.curseforge.com/hytale/mods/animal-spawning-overhaul)
+<details>
+<summary>Expand</summary>
+
+**Description:**  
+Overhauls the spawning system for animals in Hytale, creating more **realistic ecosystems**. Adjusts spawn rates, group sizes, and biome-specific animal behaviors. ([curseforge.com](https://www.curseforge.com/hytale/mods/animal-spawning-overhaul))
+
+**Usage / How to Use In‑Game:**  
+- No direct commands; effects are automatic in the world.  
+- Biomes will now have more varied and realistic animal populations.  
+
+**Screenshots / Images:**  
+![Animal Spawning Overhaul](https://media.curseforge.com/avatars/XXXXX/large.png)
+
+</details>
+
+---
+
+### [Aure’s Livestock](https://www.curseforge.com/hytale/mods/aures-livestock)
 <details>
 <summary>Expand</summary>
 
@@ -279,8 +266,7 @@ Adds **livestock variants** to Hytale, such as improved cows, sheep, and chicken
 
 ---
 
-### Aure’s Horse Skins
-https://www.curseforge.com/hytale/mods/aures-horse-skins
+### [Aure’s Horse Skins](https://www.curseforge.com/hytale/mods/aures-horse-skins)
 <details>
 <summary>Expand</summary>
 
@@ -298,8 +284,7 @@ Introduces **new horse skins** to Hytale, allowing variety in equines with diffe
 
 ---
 
-### Ymmersive Melodies
-https://www.curseforge.com/hytale/mods/ymmersive-melodies
+### [Ymmersive Melodies](https://www.curseforge.com/hytale/mods/ymmersive-melodies)
 <details>
 <summary>Expand</summary>
 
@@ -317,8 +302,7 @@ Adds immersive **background music and ambient sounds** to the game. Enhances atm
 
 ---
 
-### Ymmersive Masonry
-https://www.curseforge.com/hytale/mods/ymmersive-masonry
+### [Ymmersive Masonry](https://www.curseforge.com/hytale/mods/ymmersive-masonry)
 <details>
 <summary>Expand</summary>
 
@@ -336,8 +320,7 @@ Adds **new masonry blocks and construction options**, enhancing realism in build
 
 ---
 
-### Ymmersive Carpentry
-https://www.curseforge.com/hytale/mods/ymmersive-carpentry
+### [Ymmersive Carpentry](https://www.curseforge.com/hytale/mods/ymmersive-carpentry)
 <details>
 <summary>Expand</summary>
 
@@ -360,8 +343,7 @@ Adds **new wooden blocks, furniture, and carpentry tools**. Enhances building op
 
 ## ⚔️ Tools & Combat
 
-### Keb’s Katanas
-https://www.curseforge.com/hytale/mods/kebs-katanas
+### [Keb’s Katanas](https://www.curseforge.com/hytale/mods/kebs-katanas)
 <details>
 <summary>Expand</summary>
 
@@ -380,8 +362,7 @@ Adds **katanas and samurai-style weapons** to Hytale. Includes crafting recipes,
 
 ---
 
-### MultiTools
-https://www.curseforge.com/hytale/mods/multitools
+### [MultiTools](https://www.curseforge.com/hytale/mods/multitools)
 <details>
 <summary>Expand</summary>
 
@@ -400,8 +381,7 @@ Adds **multi-purpose tools** that combine the functionality of pickaxe, axe, and
 
 ---
 
-### Skeleton Banging Shield
-https://www.curseforge.com/hytale/mods/skeleton-banging-shield
+### [Skeleton Banging Shield](https://www.curseforge.com/hytale/mods/skeleton-banging-shield)
 <details>
 <summary>Expand</summary>
 
@@ -420,8 +400,7 @@ Adds a **shield that damages nearby skeleton mobs** automatically when equipped.
 
 ---
 
-### The Pickaxes Place Torches
-https://www.curseforge.com/hytale/mods/the-pickaxes-place-torches
+### [The Pickaxes Place Torches](https://www.curseforge.com/hytale/mods/the-pickaxes-place-torches)
 <details>
 <summary>Expand</summary>
 
@@ -439,8 +418,7 @@ Automatically places torches while mining, keeping areas lit and reducing mob sp
 
 ---
 
-### Wan’s Wonder Weapons
-https://www.curseforge.com/hytale/mods/wans-wonder-weapons
+### [Wan’s Wonder Weapons](https://www.curseforge.com/hytale/mods/wans-wonder-weapons)
 <details>
 <summary>Expand</summary>
 
@@ -464,8 +442,7 @@ Adds **special weapons with unique effects** for combat. Includes elemental swor
 
 ## 🏗️ Building & Decoration
 
-### Lumenia
-https://www.curseforge.com/hytale/mods/lumenia
+### [Lumenia](https://www.curseforge.com/hytale/mods/lumenia)
 <details>
 <summary>Expand</summary>
 
@@ -484,8 +461,7 @@ Lumenia adds **glowing decorative blocks** and lighting options to enhance build
 
 ---
 
-### Macaw’s HY Carpets
-https://www.curseforge.com/hytale/mods/macaws-hy-carpets
+### [Macaw’s HY Carpets](https://www.curseforge.com/hytale/mods/macaws-hy-carpets)
 <details>
 <summary>Expand</summary>
 
@@ -503,8 +479,7 @@ Adds **colorful carpets** in multiple patterns and sizes. Enhances interiors and
 
 ---
 
-### Macaw’s HY Doors
-https://www.curseforge.com/hytale/mods/macaws-hy-doors
+### [Macaw’s HY Doors](https://www.curseforge.com/hytale/mods/macaws-hy-doors)
 <details>
 <summary>Expand</summary>
 
@@ -522,8 +497,7 @@ Adds a variety of **doors and gates**, including wood, iron, and decorative desi
 
 ---
 
-### Macaw’s HY Windows
-https://www.curseforge.com/hytale/mods/macaws-hy-windows
+### [Macaw’s HY Windows](https://www.curseforge.com/hytale/mods/macaws-hy-windows)
 <details>
 <summary>Expand</summary>
 
@@ -541,8 +515,7 @@ Adds **various window styles** for buildings. Transparent or decorative panes en
 
 ---
 
-### Macaw’s HY Furniture
-https://www.curseforge.com/hytale/mods/macaws-hy-furniture
+### [Macaw’s HY Furniture](https://www.curseforge.com/hytale/mods/macaws-hy-furniture)
 <details>
 <summary>Expand</summary>
 
@@ -560,8 +533,7 @@ Adds **chairs, tables, beds, shelves**, and other furniture items. Great for int
 
 ---
 
-### Macaw’s HY Lights & Lamps
-https://www.curseforge.com/hytale/mods/macaws-hy-lights-and-lamps
+### [Macaw’s HY Lights & Lamps](https://www.curseforge.com/hytale/mods/macaws-hy-lights-and-lamps)
 <details>
 <summary>Expand</summary>
 
@@ -579,8 +551,7 @@ Adds decorative **lamps, chandeliers, and wall lights** to illuminate spaces. ([
 
 ---
 
-### Macaw’s HY Stairs
-https://www.curseforge.com/hytale/mods/macaws-hy-stairs
+### [Macaw’s HY Stairs](https://www.curseforge.com/hytale/mods/macaws-hy-stairs)
 <details>
 <summary>Expand</summary>
 
@@ -598,8 +569,7 @@ Adds **custom stair shapes and blocks** to enhance building designs and accessib
 
 ---
 
-### Simple Glass
-https://www.curseforge.com/hytale/mods/simple-glass
+### [Simple Glass](https://www.curseforge.com/hytale/mods/simple-glass)
 <details>
 <summary>Expand</summary>
 
@@ -617,8 +587,7 @@ Adds **clear glass blocks** with simplified textures for modern or minimalistic 
 
 ---
 
-### Thorium Chests
-https://www.curseforge.com/hytale/mods/thorium-chests
+### [Thorium Chests](https://www.curseforge.com/hytale/mods/thorium-chests)
 <details>
 <summary>Expand</summary>
 
@@ -636,8 +605,7 @@ Adds **new chest styles** with larger storage capacity or decorative options. ([
 
 ---
 
-### Thorium Furnaces
-https://www.curseforge.com/hytale/mods/thorium-furnaces
+### [Thorium Furnaces](https://www.curseforge.com/hytale/mods/thorium-furnaces)
 <details>
 <summary>Expand</summary>
 
@@ -655,8 +623,7 @@ Adds **advanced furnaces** with faster smelting or decorative styles. ([cursefor
 
 ---
 
-### Violet’s Furnishings
-https://www.curseforge.com/hytale/mods/violets-furnishings
+### [Violet’s Furnishings](https://www.curseforge.com/hytale/mods/violets-furnishings)
 <details>
 <summary>Expand</summary>
 
@@ -674,8 +641,7 @@ Adds a wide range of **furniture and decorative items**, from shelves and tables
 
 ---
 
-### Violet’s Wardrobe
-https://www.curseforge.com/hytale/mods/violets-wardrobe
+### [Violet’s Wardrobe](https://www.curseforge.com/hytale/mods/violets-wardrobe)
 <details>
 <summary>Expand</summary>
 
@@ -698,8 +664,7 @@ Adds **wardrobes and storage furniture** for organizing player clothing or items
 
 ## ⚙️ Quality of Life (QoL)
 
-### Simply Trash
-https://www.curseforge.com/hytale/mods/simply-trash
+### [Simply Trash](https://www.curseforge.com/hytale/mods/simply-trash)
 <details>
 <summary>Expand</summary>
 
@@ -718,8 +683,7 @@ Simply Trash adds a **trash can system** for disposing of unwanted items quickly
 
 ---
 
-### Saplings From Trees
-https://www.curseforge.com/hytale/mods/saplings-from-trees
+### [Saplings From Trees](https://www.curseforge.com/hytale/mods/saplings-from-trees)
 <details>
 <summary>Expand</summary>
 
@@ -737,8 +701,7 @@ Allows players to collect **saplings directly from leaves** instead of waiting f
 
 ---
 
-### Saplings On Logs
-https://www.curseforge.com/hytale/mods/saplings-on-logs
+### [Saplings On Logs](https://www.curseforge.com/hytale/mods/saplings-on-logs)
 <details>
 <summary>Expand</summary>
 
@@ -756,8 +719,7 @@ Enables **saplings to spawn on the top of logs**, helping players regenerate tre
 
 ---
 
-### Trampolines
-https://www.curseforge.com/hytale/mods/trampolines
+### [Trampolines](https://www.curseforge.com/hytale/mods/trampolines)
 <details>
 <summary>Expand</summary>
 
